@@ -1,5 +1,17 @@
 .container{
-    background-color: #801111;
+    background-color: #d9f8e6;
+    background-color: #c2ffe2;
     margin: 0px;
     max-width: 20000px;
+}
+
+.blog-footer{
+    margin: 3px;
+    background-color: #6C757D;
+    color: white;
+    font-size: 12px;
+}
+
+.nav-scroller{
+    background-color: #a3adb2;
 }
